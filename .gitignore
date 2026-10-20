@@ -1,0 +1,32 @@
+# Java / Maven
+**/target/
+**/build/
+**/.classpath
+**/.project
+**/.settings/
+**/*.class
+**/.idea/
+**/*.iml
+
+# Node / Next.js
+**/node_modules/
+**/.next/
+**/out/
+**/.vercel/
+**/coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+
+# Maven wrapper jar is usually kept; ignore only generated wrapper downloads if you add them
+# For this project, wrapper is committed intentionally
